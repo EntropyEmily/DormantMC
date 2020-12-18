@@ -1,0 +1,7 @@
+main: com.jacestratton.DormantMain
+name: DormantAdditions
+version: 1.2.2
+api-version: 1.16
+description: New game mechanics, teams, and player abilities!
+author: JaceStratton
+depend: [ProtocolLib]

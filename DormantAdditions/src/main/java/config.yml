@@ -1,0 +1,27 @@
+# Name of database. Changing this will reference a new database.
+sqlite:
+  filename: database
+# Teleport settings for warmup and timeout (seconds).
+teleport:
+  warmup: 3
+  timeout: 60
+# List of crops automatically replanted with hoe.
+# Use material names: https://papermc.io/javadocs/paper/1.16/org/bukkit/Material.html
+crops:
+- WHEAT
+- POTATOES
+- CARROTS
+- BEETROOTS
+- NETHER_WART
+# Chat codes for format and color. Type '&' followed by letter/number to exclude from list.
+# Unaffected for ops.
+# https://www.colorschemer.com/minecraft-color-codes/
+format_blacklist:
+- &l
+- &m
+- &n
+- &o
+- &r
+# Experience required per level.
+experience:
+  rate: 45
