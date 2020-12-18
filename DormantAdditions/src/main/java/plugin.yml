@@ -1,7 +1,7 @@
-main: com.jacestratton.DormantMain
+main: com.Emily.DormantMain
 name: DormantAdditions
 version: 1.2.2
 api-version: 1.16
 description: New game mechanics, teams, and player abilities!
-author: JaceStratton
+author: Emily
 depend: [ProtocolLib]
